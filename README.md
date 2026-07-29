@@ -91,6 +91,5 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daniilperkin&show_icons=true&theme=tokyonight" alt="daniilperkin stats" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=daniilperkin&theme=tokyonight" alt="daniilperkin streak" height="165" />
 </p>
