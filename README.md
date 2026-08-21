@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Developer</h3>
 
 <p align="center">
-  <a href="mailto:danetschka4pertschik@gmail.com">
+  <a href="mailto:daniilperkin2004@gmail.com">
     <img src="https://img.shields.io/badge/Email-danetschka4pertschik%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
@@ -13,8 +13,6 @@
 
 - 🔭 I’m currently working on **[SprintStartProject](https://github.com/SprintStartProject)**
 - 🌱 I’m currently learning **Frontend Development with AI (React)**
-- 💬 Ask me about **how my day is going**
-- ⚡ Fun fact **I have a lot of private repos 🤫**
 
 ---
 
