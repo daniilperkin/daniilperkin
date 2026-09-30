@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="mailto:daniilperkin2004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-danetschka4pertschik%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-daniilperkin2004%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
@@ -13,6 +13,12 @@
 
 - 🔭 I’m currently working on **[SprintStartProject](https://github.com/SprintStartProject)**
 - 🌱 I’m currently learning **Frontend Development with AI (React)**
+
+---
+
+### 🎓 University Projects
+
+Coursework from my Computer Science degree lives in the **[daniilperkin-uni](https://github.com/daniilperkin-uni)** organization - C++, Java and Spring Boot/Vue projects, each with CI, tests and docs.
 
 ---
 
