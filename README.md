@@ -12,11 +12,12 @@
 ### 🚀 About Me
 
 - 🔭 I’m currently working on **[SprintStartProject](https://github.com/SprintStartProject)**
+- ✨ I just shipped **[StarLine](https://github.com/daniilperkin/starline)** v1.0.2 — an offline-first novel planner (PWA + Android APK)
 - 🌱 I’m currently learning **Frontend Development with AI (React)**
 
 ---
 
-### 📌 Featured Project
+### 📌 Featured Projects
 
 **[comp[AI]on](https://github.com/daniilperkin/comp-AI-on)** — a local-first developer log that tracks which AI models actually earn their keep: quality scores, token usage and spend in one SQLite file, with no cloud, no accounts and no telemetry. FastAPI + React + TypeScript, fully offline.
 
@@ -34,6 +35,29 @@
 
 <a href="https://daniilperkin.github.io/comp-AI-on/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/daniilperkin/comp-AI-on/main/docs/screenshots/dashboard.png" alt="comp-AI-on dashboard" width="100%"/>
+</a>
+
+#### [StarLine](https://github.com/daniilperkin/starline) — offline-first novel planner
+
+A phone-first planner and drafting desk: one sentence in, a scene-by-scene outline out via the nine-step Snowflake method, with characters, lore, relationships, timeline and notes kept cross-linked in a single `.starline` SQLite file the writer owns. Installable PWA and a signed Android APK — no accounts, no telemetry, and no network code in the default build. React 19 + TypeScript + SQLite: rusqlite under Tauri, sqlite-wasm in the browser, behind one storage driver.
+
+<p align="left">
+  <a href="https://github.com/daniilperkin/starline/actions/workflows/ci.yml" target="_blank" rel="noreferrer">
+    <img src="https://github.com/daniilperkin/starline/actions/workflows/ci.yml/badge.svg" alt="CI"/>
+  </a>
+  <a href="https://daniilperkin.github.io/starline/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/PWA-open%20in%20browser-2ea44f?logo=githubpages&logoColor=white" alt="PWA"/>
+  </a>
+  <a href="https://github.com/daniilperkin/starline/releases/latest" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/github/v/release/daniilperkin/starline?label=APK&logo=android&logoColor=white" alt="Latest APK"/>
+  </a>
+  <a href="https://github.com/daniilperkin/starline/blob/main/LICENSE" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/license-MPL--2.0-orange.svg" alt="License: MPL-2.0"/>
+  </a>
+</p>
+
+<a href="https://daniilperkin.github.io/starline/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/daniilperkin/starline/main/docs/screenshots/hero.png" alt="StarLine — start screen, plan dashboard and outliner" width="100%"/>
 </a>
 
 ---
