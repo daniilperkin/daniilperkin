@@ -19,7 +19,9 @@
 
 ### 📌 Featured Projects
 
-**[comp[AI]on](https://github.com/daniilperkin/comp-AI-on)** — a local-first developer log that tracks which AI models actually earn their keep: quality scores, token usage and spend in one SQLite file, with no cloud, no accounts and no telemetry. FastAPI + React + TypeScript, fully offline.
+#### [comp[AI]on](https://github.com/daniilperkin/comp-AI-on) — local-first AI usage log
+
+A local-first developer log that tracks which AI models actually earn their keep: quality scores, token usage and spend in one SQLite file, with no cloud, no accounts and no telemetry. FastAPI + React + TypeScript, fully offline.
 
 <p align="left">
   <a href="https://github.com/daniilperkin/comp-AI-on/actions/workflows/ci.yml" target="_blank" rel="noreferrer">
@@ -35,6 +37,29 @@
 
 <a href="https://daniilperkin.github.io/comp-AI-on/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/daniilperkin/comp-AI-on/main/docs/screenshots/dashboard.png" alt="comp-AI-on dashboard" width="100%"/>
+</a>
+
+#### [2048](https://github.com/daniilperkin/2048-clone) — modernized 2048 with five themes and real accessibility
+
+A modernized fork of the classic 2048: five themes (Classic, Developer, Agile, Fibonacci, Doodle) with a swatch picker, 3×3 / 4×4 / 5×5 boards that each keep their own save, best score and top-5 leaderboard, three-state dark mode, colour-blind tile patterns, undo, a daily seeded challenge, and a run summary with moves, timer and a shareable emoji result. Vanilla JavaScript — no framework, plain script tags sharing one global scope — with ARIA grid roles checked by axe against WCAG 2.1 AA, an installable PWA that plays offline, and a single-file `2048.html` build. 261 Vitest tests plus a Playwright Chromium smoke test, with ESLint, stylelint, Prettier and `tsc --checkJs` enforced in CI.
+
+<p align="left">
+  <a href="https://github.com/daniilperkin/2048-clone/actions/workflows/ci.yml" target="_blank" rel="noreferrer">
+    <img src="https://github.com/daniilperkin/2048-clone/actions/workflows/ci.yml/badge.svg" alt="CI"/>
+  </a>
+  <a href="https://daniilperkin.github.io/2048-clone/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/play%20online-open-2ea44f?logo=githubpages&logoColor=white" alt="Play online"/>
+  </a>
+  <a href="https://github.com/daniilperkin/2048-clone/releases/latest" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/github/v/release/daniilperkin/2048-clone?label=release&logo=github&logoColor=white" alt="Latest release"/>
+  </a>
+  <a href="https://github.com/daniilperkin/2048-clone/blob/main/LICENSE.txt" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License: MIT"/>
+  </a>
+</p>
+
+<a href="https://daniilperkin.github.io/2048-clone/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/daniilperkin/2048-clone/main/docs/screenshots/desktop.png" alt="2048 — desktop board, Classic theme" width="100%"/>
 </a>
 
 #### [StarLine](https://github.com/daniilperkin/starline) — offline-first novel planner
