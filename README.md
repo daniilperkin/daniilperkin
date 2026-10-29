@@ -117,5 +117,5 @@ Coursework from my Computer Science degree lives in the **[daniilperkin-uni](htt
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daniilperkin&theme=tokyonight" alt="daniilperkin streak" height="165" />
+  <img src="https://streak-stats.demolab.com?user=daniilperkin&theme=tokyonight&hide_border=true" alt="daniilperkin streak" height="165" />
 </p>
