@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniil Perkin</h1>
-<h3 align="center">Frontend Developer</h3>
+<h3 align="center">Frontend Developer · building local-first tools</h3>
 
 <p align="center">
   <a href="mailto:daniilperkin2004@gmail.com">
@@ -13,6 +13,28 @@
 
 - 🔭 I’m currently working on **[SprintStartProject](https://github.com/SprintStartProject)**
 - 🌱 I’m currently learning **Frontend Development with AI (React)**
+
+---
+
+### 📌 Featured Project
+
+**[comp[AI]on](https://github.com/daniilperkin/comp-AI-on)** — a local-first developer log that tracks which AI models actually earn their keep: quality scores, token usage and spend in one SQLite file, with no cloud, no accounts and no telemetry. FastAPI + React + TypeScript, fully offline.
+
+<p align="left">
+  <a href="https://github.com/daniilperkin/comp-AI-on/actions/workflows/ci.yml" target="_blank" rel="noreferrer">
+    <img src="https://github.com/daniilperkin/comp-AI-on/actions/workflows/ci.yml/badge.svg" alt="CI"/>
+  </a>
+  <a href="https://daniilperkin.github.io/comp-AI-on/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/live%20demo-open-2ea44f?logo=githubpages&logoColor=white" alt="Live demo"/>
+  </a>
+  <a href="https://github.com/daniilperkin/comp-AI-on/blob/main/LICENSE" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License: MIT"/>
+  </a>
+</p>
+
+<a href="https://daniilperkin.github.io/comp-AI-on/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/daniilperkin/comp-AI-on/main/docs/screenshots/dashboard.png" alt="comp-AI-on dashboard" width="100%"/>
+</a>
 
 ---
 
